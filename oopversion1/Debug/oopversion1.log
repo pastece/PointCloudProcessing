@@ -1,0 +1,18 @@
+﻿  DepthCamera.cpp
+  FilterPipe.cpp
+C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2021-2022\1.Dönem\oop\oopversion1\FilterPipe.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  PassThroughFilter.cpp
+  Point.cpp
+  PointCloud.cpp
+C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2021-2022\1.Dönem\oop\oopversion1\PointCloud.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  PointCloudFilter.cpp
+  PointCloudGenerator.cpp
+  PointCloudInterface.cpp
+C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2021-2022\1.Dönem\oop\oopversion1\PointCloudInterface.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+  PointCloudRecorder.cpp
+  RadiusOutlierFilter.cpp
+  Tranform.cpp
+  Generating Code...
+C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2021-2022\1.Dönem\oop\oopversion1\DepthCamera.cpp(39): warning C4715: 'DepthCamera::capture': not all control paths return a value
+  oopversion1.vcxproj -> C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2021-2022\1.Dönem\oop\oopversion1\Debug\oopversion1.exe

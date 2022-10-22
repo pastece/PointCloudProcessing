@@ -1,0 +1,3 @@
+C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2021-2022\oop\oopversion1\Debug\oopversion1.exe
+C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2021-2022\oop\oopversion1\Debug\oopversion1.pdb
+C:\Users\Yusuf Aktaş\Desktop\Ders Dosyaları\2021-2022\1.Dönem\oop\oopversion1\Debug\oopversion1.exe
